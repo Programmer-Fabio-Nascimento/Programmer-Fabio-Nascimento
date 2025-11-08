@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Fábio 👋
 
 <br>
@@ -27,12 +26,11 @@ soluções inovadoras para web e mobile.<br><br>
 - PHP<br>
 - Python<br><br></p>
 
-
 ### 🌐 Socials:
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-do-nascimento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-do-nascimento)
 
 <br>
 <br>
@@ -54,7 +52,7 @@ soluções inovadoras para web e mobile.<br><br>
 <br>
 <br>
 
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Nascimento&theme=blue-green)
 
 <br>
 <br>
